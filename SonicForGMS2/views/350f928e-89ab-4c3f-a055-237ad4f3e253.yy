@@ -7,7 +7,9 @@
         "9ec22af4-7380-4e3c-92a9-ec1f6d014348",
         "5a1cd4b5-de39-4363-92d7-047c67f63373",
         "1f6c81b3-5f9c-44c3-b137-0d305b1e5d21",
-        "c796135d-c61e-4db9-9145-f8b2d7aacff2"
+        "c796135d-c61e-4db9-9145-f8b2d7aacff2",
+        "7efdfe8e-3051-4018-ab67-cebab81d7733",
+        "f83fb4ac-ff05-488d-93a0-5a597c697edf"
     ],
     "filterType": "GMSound",
     "folderName": "Sonic",

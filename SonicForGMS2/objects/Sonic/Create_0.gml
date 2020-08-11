@@ -3,6 +3,7 @@ event_inherited();
 game_pc_define_animation(self, "stand", SonicStanceAnim);
 game_pc_define_animation(self, "stance_loop", SonicStanceLoopAnim);
 game_pc_define_animation(self, "walk", SonicWalkAnim);
+game_pc_define_animation(self, "sprint", SonicPealOutAnim);
 game_pc_define_animation(self, "run", SonicRunAnim);
 game_pc_define_animation(self, "brake", SonicBrakeAnim);
 game_pc_define_animation(self, "spin", SonicSpinAnim);
@@ -19,6 +20,7 @@ game_pc_define_animation(self, "drown", SonicDrownAnim);
 game_pc_define_animation(self, "transform", SonicTransformAnim);
 game_pc_define_animation(self, "teeter_front", SonicTeeterFrontAnim);
 game_pc_define_animation(self, "teeter_back", SonicTeeterBackAnim);
+game_pc_define_animation(self, "pealoutcharge", SonicPealOutChargeAnim);
 
 // shaders
 shader.normal_color[0] = make_color_rgb(106, 106, 255);

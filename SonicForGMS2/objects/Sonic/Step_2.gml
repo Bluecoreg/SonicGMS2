@@ -11,7 +11,9 @@ if (game_is_running() and not state_changed) {
     case player_is_running:
         image_angle = direction;
         var velocity = floor(abs(x_speed));
-        if (velocity >= 6) {
+        if (velocity >= 10) {
+            game_pc_animate(self, "sprint");
+        } else if (velocity >= 6) {
             game_pc_animate(self, "run");
         } else {
             game_pc_animate(self, "walk");

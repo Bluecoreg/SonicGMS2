@@ -10,7 +10,8 @@
         "11befb7b-15b6-498d-a2af-ad7baf6e8844",
         "d2743a58-d4b9-44fd-be77-85725cc05f0f",
         "bf5bc368-7c6c-44f5-b677-af51d9d47766",
-        "6c55851e-af7d-4a50-b0af-e5563efc2deb"
+        "6c55851e-af7d-4a50-b0af-e5563efc2deb",
+        "10948ed8-0145-4b41-880a-2e0451fe76e2"
     ],
     "filterType": "GMSprite",
     "folderName": "Super",
