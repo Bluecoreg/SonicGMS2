@@ -767,6 +767,14 @@
             }
         },
         {
+            "Key": "10948ed8-0145-4b41-880a-2e0451fe76e2",
+            "Value": {
+                "id": "7e736008-5ea4-4537-8346-e0c628c36313",
+                "resourcePath": "sprites\\SuperSonicPealOutChargeSprite\\SuperSonicPealOutChargeSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "11051dd4-55b1-444b-9074-31c349a833af",
             "Value": {
                 "id": "2aaa58b4-efb2-496c-871e-6914b21ad454",
@@ -1996,6 +2004,14 @@
                 "id": "593b7de0-926b-4193-a564-97032685a55e",
                 "resourcePath": "sounds\\GumballSound\\GumballSound.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "34362c74-ab58-4160-ada0-e6c21588cd23",
+            "Value": {
+                "id": "c2357508-73c2-4a89-898f-d1730128fee8",
+                "resourcePath": "sprites\\SonicPealOutSprite\\SonicPealOutSprite.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -4239,6 +4255,14 @@
             }
         },
         {
+            "Key": "689efcee-e3b3-4d3e-8c57-4c67ef7b3e51",
+            "Value": {
+                "id": "7563277a-d169-41c5-9539-ce76ec700617",
+                "resourcePath": "timelines\\SonicPealOutAnim\\SonicPealOutAnim.yy",
+                "resourceType": "GMTimeline"
+            }
+        },
+        {
             "Key": "68f7cb1c-d744-4ef6-9238-acfaebd35aaf",
             "Value": {
                 "id": "f1dc2388-550b-458e-8f56-81617412fcff",
@@ -4655,6 +4679,14 @@
             }
         },
         {
+            "Key": "75ac291e-7061-4bcb-8e8a-3b3545332d41",
+            "Value": {
+                "id": "a45ac319-419f-4113-b34e-515642fe2e05",
+                "resourcePath": "options\\html5\\options_html5.yy",
+                "resourceType": "GMHtml5Options"
+            }
+        },
+        {
             "Key": "75ddee4e-72fc-4f55-89cb-e4012d9f55ef",
             "Value": {
                 "id": "ac2c177d-c4cd-4b01-b187-3c993ae2165d",
@@ -4991,6 +5023,14 @@
             }
         },
         {
+            "Key": "7e093a2a-e51c-4a1e-9a53-f9080d38730b",
+            "Value": {
+                "id": "473e723f-0a2f-4c02-adfd-97bcd652263c",
+                "resourcePath": "options\\windowsuap\\options_windowsuap.yy",
+                "resourceType": "GMWindowsUAPOptions"
+            }
+        },
+        {
             "Key": "7e0b6b98-cde2-4faf-b99f-a2bc5ac72cd7",
             "Value": {
                 "id": "4f6ee0e4-a15c-4e4a-8472-19d3981d06ee",
@@ -5068,6 +5108,14 @@
                 "id": "82c65967-f3e1-432a-961d-6b5190a0fab4",
                 "resourcePath": "sprites\\CrushBlockMaskSprite\\CrushBlockMaskSprite.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7efdfe8e-3051-4018-ab67-cebab81d7733",
+            "Value": {
+                "id": "a3baffc1-8787-447c-83e5-8cc99c4f0d50",
+                "resourcePath": "sounds\\PealOutChargeSound\\PealOutChargeSound.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -5716,6 +5764,14 @@
                 "id": "779ff748-9765-4dbf-bffb-ed1aeb8dbb27",
                 "resourcePath": "views\\8efb63a8-fa45-4609-9e12-86774489dc84.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8f060afe-7a09-4492-a130-d4be34f08040",
+            "Value": {
+                "id": "0bd119e4-5dee-458b-9a71-b23a62ec1f2d",
+                "resourcePath": "timelines\\SonicPealOutChargeAnim\\SonicPealOutChargeAnim.yy",
+                "resourceType": "GMTimeline"
             }
         },
         {
@@ -8223,6 +8279,14 @@
             }
         },
         {
+            "Key": "ceac7fa1-f0d6-46e8-9dec-b0f733ed4a52",
+            "Value": {
+                "id": "045523e5-9dd7-4915-8644-c69620a4e4c6",
+                "resourcePath": "timelines\\SuperSonicPealOutChargeAnim\\SuperSonicPealOutChargeAnim.yy",
+                "resourceType": "GMTimeline"
+            }
+        },
+        {
             "Key": "cef03846-fdf4-456c-8635-b9af71cf3388",
             "Value": {
                 "id": "d34870fc-1245-4fc7-be5d-66aa5156873a",
@@ -9143,6 +9207,14 @@
             }
         },
         {
+            "Key": "e775edd4-5ae2-431f-aff4-f9ad5be97b8b",
+            "Value": {
+                "id": "c1d94ca5-79d1-42d4-83c8-fc269cc33f5b",
+                "resourcePath": "scripts\\player_is_peelouting\\player_is_peelouting.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "e7f52000-c9e8-4f6f-b569-53fae8115d4e",
             "Value": {
                 "id": "0c7a2a39-1844-45bb-b62c-36ce6f92f290",
@@ -9583,6 +9655,14 @@
             }
         },
         {
+            "Key": "f6c40210-29d1-45ed-8660-869203890670",
+            "Value": {
+                "id": "0ba49bf8-8365-441f-8b93-b8edfd0241e0",
+                "resourcePath": "sprites\\SonicPealOutChargeSprite\\SonicPealOutChargeSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f6d35305-416d-4d71-ad42-38b5fd4e2723",
             "Value": {
                 "id": "2436ad38-da44-45ef-aca6-98fb624b67ad",
@@ -9644,6 +9724,14 @@
                 "id": "5dd46281-27cc-4cc1-afa9-e6b34b0f5dad",
                 "resourcePath": "timelines\\BubblePattern3Time\\BubblePattern3Time.yy",
                 "resourceType": "GMTimeline"
+            }
+        },
+        {
+            "Key": "f83fb4ac-ff05-488d-93a0-5a597c697edf",
+            "Value": {
+                "id": "4195ee46-8bf7-43af-9143-97dbf23df115",
+                "resourcePath": "sounds\\PealOutSound\\PealOutSound.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -9968,6 +10056,7 @@
         "1d873d7a-e85c-4051-8f47-6c1dde1e8450",
         "53651a01-9d50-4fe9-9a5b-ff14fd9ee067",
         "07cb0687-d470-4f28-9607-d59d26abe5ab",
+        "e775edd4-5ae2-431f-aff4-f9ad5be97b8b",
         "cd70360a-05b3-4795-a4f4-062e54b45162",
         "46b7bf38-9891-472a-9800-4bd4fbd4dfdc",
         "e60525db-7b60-4e3f-bbaa-763aab861423",
